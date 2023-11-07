@@ -1,0 +1,63 @@
+input
+{
+    background-color:whitesmoke;
+    text-align: center;
+}
+label{
+    color:black;
+}
+h1{
+    color:black;
+}
+.a1
+{
+    text-align: center;
+}
+form{
+    border-radius: 20px;
+    margin-top: 10%;
+}
+.r
+{
+    box-shadow:
+  2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+  100px 100px 80px rgba(0, 0, 0, 0.07)
+;
+border-radius: 10px;
+}
+.ll
+{
+    margin-bottom: 20px;
+    width: 100px;
+    background: #E0EAFC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.ll:hover
+{
+    background: purple;
+}
+body{
+    background-image: linear-gradient(to right,#005AA7,#FFFDE4);  /* fallback for old browsers */
+
+
+}
+.mo
+{
+
+   background-color: white;
+   box-shadow:
+  2.3px 2.3px 1.9px rgba(0, 0, 0, 0.044),
+  5.4px 5.4px 4.3px rgba(0, 0, 0, 0.063),
+  9.7px 9.7px 7.7px rgba(0, 0, 0, 0.078),
+  16.1px 16.1px 12.8px rgba(0, 0, 0, 0.092),
+  26.5px 26.5px 21.2px rgba(0, 0, 0, 0.107),
+  46.2px 46.2px 37px rgba(0, 0, 0, 0.126),
+  100px 100px 80px rgba(0, 0, 0, 0.17)
+;
+
+}
